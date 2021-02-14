@@ -25,8 +25,5 @@ Klicke auf ein Test um herauszufinden, auf welchem Niveau du gerade bist, und we
     <button class="button red" onclick="location.href='C1_Deutschtest'" type="button" ><span>C1 Niveau </span></button>
 </p>
 
-<p style="text-align:center">
-    <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfLjVL-U5y489F148YAAwIMi7q5DLaz5_fSN9Tyl0HQStHyiA/viewform?embedded=true" title="A1 Deutschtest" scrolling="no" width="100%" height="4635">Wird geladen…</iframe>
-</p>
 
 <!-- <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfLjVL-U5y489F148YAAwIMi7q5DLaz5_fSN9Tyl0HQStHyiA/viewform?embedded=true" frameborder="0" scrolling="no" onload="resizeIframe(this)">Wird geladen…</iframe> -->
