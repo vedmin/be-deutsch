@@ -6,7 +6,8 @@ permalink: /Deutschtest/B1_Deutschtest/
 
 Teste dein Deutsch! 👩‍🎓👨‍🎓
 
-Mit B1 kann man sich schon frei Unterhalten. 
+Mit B1 kann man sich schon frei Unterhalten. 👍
+B1 wird für die Bewerbung an einer deutschen Universität benötigt.
 
 
 <p style="text-align:center">

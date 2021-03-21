@@ -5,8 +5,7 @@ permalink: /Anmeldung/
 ---
 
 <h1>Anmeldung</h1>
-<p>Melde dich für ein Kurs an.</p>
-<!--p>Please fill in this form to create an account.</p-->
+<p>Melde dich für einen Kurs oder Einzelunterricht an.</p>
 <hr>
 
 <p style="text-align:center">

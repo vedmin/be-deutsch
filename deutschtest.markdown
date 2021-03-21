@@ -8,7 +8,7 @@ Teste dein Deutsch! 👩‍🎓👨‍🎓
 
 Diese Tests geben dir eine erste Orientierung, wie gut deine Deutschkenntnisse sind.
 
-Klicke auf ein Test um herauszufinden, auf welchem Niveau du gerade bist, und welcher Sprachkurs für dich optimal ist. 
+Klicke auf einen Test um herauszufinden, auf welchem Niveau du gerade bist, und welcher Sprachkurs für dich optimal ist. 
 
 
 <div class="btn-group" style="text-align:center">

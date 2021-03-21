@@ -6,7 +6,7 @@ permalink: /Deutschtest/B2_Deutschtest/
 
 Teste dein Deutsch! 👩‍🎓👨‍🎓
 
-B2 ist Dein Ziel, falls Du in Deutschland Studieren möchtest. 💪
+B2 wird gefragt, wenn du eine Arbeitsstelle in Deutschland suchst.💪
 
 
 <p style="text-align:center">
