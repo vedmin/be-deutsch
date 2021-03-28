@@ -9,5 +9,5 @@ permalink: /Anmeldung/
 <hr>
 
 <p style="text-align:center">
-    <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScIDHXOEUl43gN0aeH5KoTZGWqk2fBjVwaWhEnHynQaih3AfQ/viewform?embedded=true" title="Anmeldung" scrolling="no" width="100%" height="1050">Wird geladen…</iframe>
+    <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScIDHXOEUl43gN0aeH5KoTZGWqk2fBjVwaWhEnHynQaih3AfQ/viewform?embedded=true" title="Anmeldung" scrolling="no" width="100%" height="1070">Wird geladen…</iframe>
 </p>
