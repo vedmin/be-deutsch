@@ -4,7 +4,7 @@
 
 layout: home
 title: Home
-permalink: /
+permalink: /Home/
 ---
 
 ### 🤗 Herzlich willkommen bei be-deutsch.de! 
