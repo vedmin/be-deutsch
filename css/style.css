@@ -4,7 +4,14 @@
 html { font-family: sans-serif; /* 1 */ -ms-text-size-adjust: 100%; /* 2 */ -webkit-text-size-adjust: 100%; /* 2 */ }
 
 /** Remove default margin. */
-body { margin: 0; }
+body { 
+  margin: 0; 
+  /* background-color: #FFFBE6; */
+  background-size: 30px 30px;
+  background-image:
+    linear-gradient(to right, rgb(199, 199, 199) 1px, transparent 1px),
+    linear-gradient(to bottom, rgb(199, 199, 199) 1px, transparent 1px);
+  }
 
 /* HTML5 display definitions ========================================================================== */
 /** Correct `block` display not defined for any HTML5 element in IE 8/9. Correct `block` display not defined for `details` or `summary` in IE 10/11 and Firefox. Correct `block` display not defined for `main` in IE 11. */
@@ -310,6 +317,10 @@ a:hover { text-decoration: underline; }
   right: 0;
 }
 
+input[type=text]:focus {
+  outline: none;
+}
+
 .btn { display: inline-block; margin-bottom: 1rem; color: rgba(255, 255, 255, 0.7); background-color: rgba(255, 255, 255, 0.08); border-color: rgba(255, 255, 255, 0.2); border-style: solid; border-width: 1px; border-radius: 0.3rem; transition: color 0.2s, background-color 0.2s, border-color 0.2s; }
 .btn:hover { color: rgba(255, 255, 255, 0.8); text-decoration: none; background-color: rgba(255, 255, 255, 0.2); border-color: rgba(255, 255, 255, 0.3); }
 .btn + .btn { margin-left: 1rem; }
@@ -333,7 +344,9 @@ a:hover { text-decoration: underline; }
 @media screen and (min-width: 42em) and (max-width: 64em) { .project-tagline { font-size: 1.15rem; } }
 @media screen and (max-width: 42em) { .project-tagline { font-size: 1rem; } }
 
-.main-content { word-wrap: break-word; }
+.main-content { word-wrap: break-word; 
+  background-color:rgba(255, 255, 255, 0.95);
+  }
 .main-content :first-child { margin-top: 0; }
 @media screen and (min-width: 64em) { .main-content { max-width: 64rem; padding: 2rem 6rem; margin: 0 auto; font-size: 1.1rem; } }
 @media screen and (min-width: 42em) and (max-width: 64em) { .main-content { padding: 2rem 4rem; font-size: 1.1rem; } }
@@ -361,7 +374,7 @@ a:hover { text-decoration: underline; }
 .main-content dl dd { padding: 0; margin-bottom: 1rem; }
 .main-content hr { height: 2px; padding: 0; margin: 1rem 0; background-color: #eff0f1; border: 0; }
 
-.site-footer { padding-top: 2rem; margin-top: 2rem; border-top: solid 1px #eff0f1; }
+.site-footer { padding-top: 2rem; margin-top: 2rem; border-top: solid 1px #819198; }
 @media screen and (min-width: 64em) { .site-footer { font-size: 1rem; } }
 @media screen and (min-width: 42em) and (max-width: 64em) { .site-footer { font-size: 1rem; } }
 @media screen and (max-width: 42em) { .site-footer { font-size: 0.9rem; } }
