@@ -10,15 +10,18 @@ Diese Tests geben dir eine erste Orientierung, wie gut deine Deutschkenntnisse s
 
 Klicke auf einen Test um herauszufinden, auf welchem Niveau du gerade bist, und welcher Sprachkurs für dich optimal ist. 
 
-
-<div class="btn-group" style="text-align:center">
-    <button class="button_with_border green" onclick="location.href='A1_Deutschtest'" type="button" ><span>A1 Test </span></button>
-    <button class="button_with_border green" onclick="location.href='A2_Deutschtest'" type="button" ><span>A2 Test </span></button>
+<div class="btn-group-wrap">
+    <div class="btn-group" style="text-align:center">
+        <button class="button_with_border green" onclick="location.href='A1_Deutschtest'" type="button" ><span>A1 Test </span></button>
+        <button class="button_with_border green" onclick="location.href='A2_Deutschtest'" type="button" ><span>A2 Test </span></button>
+    </div>
 </div>
 
-<div class="btn-group" style="text-align:center">
-    <button class="button_with_border yellow" onclick="location.href='B1_Deutschtest'" type="button" ><span>B1 Test </span></button>
-    <button class="button_with_border yellow" onclick="location.href='B2_Deutschtest'" type="button" ><span>B2 Test </span></button>
+<div class="btn-group-wrap">
+    <div class="btn-group" style="text-align:center">
+        <button class="button_with_border yellow" onclick="location.href='B1_Deutschtest'" type="button" ><span>B1 Test </span></button>
+        <button class="button_with_border yellow" onclick="location.href='B2_Deutschtest'" type="button" ><span>B2 Test </span></button>
+    </div>
 </div>
 
 <p style="text-align:center">
