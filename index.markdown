@@ -5,16 +5,23 @@
 layout: home
 ---
 
-# 🤗 Herzlich willkommen bei be-deutsch.de! 
+# 🤗 Herzlich willkommen bei be-deutsch.de!
 
-Moderne Welt hat keine Grenzen. Heute kannst du von zu Hause alles Mögliche erledigen. Du brauchst dafür nur deinen PC und gute Internetverbindung. Und das hast du ja sicher schon.  Nutze deinen Computer, um deine Sprachkenntnisse gemütlich von zu Hause zu vertiefen und somit deine Zukunftsaussichten zu verbessern. Und wir unterstützen dich gerne dabei! Egal, in welchem Land du gerade bist, mit unseren **Online Kursen** kannst du überall effektiv und bequem lernen.
+Moderne Welt hat keine Grenzen. Heute kannst du von zu Hause alles Mögliche erledigen. Du brauchst dafür nur deinen PC
+und gute Internetverbindung. Und das hast du ja sicher schon. Nutze deinen Computer, um deine Sprachkenntnisse gemütlich
+von zu Hause zu vertiefen und somit deine Zukunftsaussichten zu verbessern. Und wir unterstützen dich gerne dabei! Egal,
+in welchem Land du gerade bist, mit unseren **Online Kursen** kannst du überall effektiv und bequem lernen.
 
-#### 👨‍🎓 Bei uns lerns du Deutsch. 
-
-* Wir bieten Gruppenunterricht für jedes Sprachniveau von A1 bis C1.
-
-* Unser <a href="{{ site.baseurl }}\Deutschtest">Deutschtest</a> hilft dein Sprachniveau festzustellen.
-
-* <a href="{{ site.baseurl }}\Anmeldung">Anmeldung</a> und <a href="{{ site.baseurl }}\Kurse">Kurse</a>.
-
-
+<div class="alert alert-success" role="alert">
+    <strong> Bei uns findest du: </strong>
+    <hr/>
+    <ul>
+        <li>Gruppenunterricht für jedes Sprachniveau von A1 bis C1.
+            <ul>
+                <li>👉 Unsere <a href="{{ site.baseurl }}\Kurse">Kurse</a> und <a href="{{ site.baseurl }}\Anmeldung">Anmeldung.</a>
+                </li>
+            </ul>
+        </li>
+        <li>Einen <a href="{{ site.baseurl }}\Deutschtest">Deutschtest</a> um dein Sprachniveau festzustellen.</li>
+    </ul>
+</div>
