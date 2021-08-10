@@ -11,13 +11,10 @@ Moderne Welt hat keine Grenzen. Heute kannst du von zu Hause alles Mögliche erl
 
 #### 👨‍🎓 Bei uns lerns du Deutsch. 
 
-#### 👩‍🏫 Wir bieten Gruppenunterricht für jedes Sprachniveau von A1 bis C1.
+* Wir bieten Gruppenunterricht für jedes Sprachniveau von A1 bis C1.
 
-#### 🤓 Los! Mache bei unserem <a href="{{ site.baseurl }}\Deutschtest">Deutschtest</a> mit um festzustellen auf welchem Sprachniveau du gerade bist.
+* Unser <a href="{{ site.baseurl }}\Deutschtest">Deutschtest</a> hilft dein Sprachniveau festzustellen.
 
-#### 📝 Weiter geht es zu der <a href="{{ site.baseurl }}\Anmeldung">Anmeldung</a>.
-
-#### 👉 Beachte dabei unser <a href="{{ site.baseurl }}\Kurse">Kursangebot</a>. 
-
+* <a href="{{ site.baseurl }}\Anmeldung">Anmeldung</a> und <a href="{{ site.baseurl }}\Kurse">Kurse</a>.
 
 
