@@ -1,6 +1,6 @@
 ---
 layout: page
-title: B1 Deutschtest
+title: Data Protection
 permalink: /data_protection/
 ---
 
