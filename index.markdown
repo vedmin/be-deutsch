@@ -10,7 +10,7 @@ layout: home
 Moderne Welt hat keine Grenzen. Heute kannst du von zu Hause alles Mögliche erledigen. Du brauchst dafür nur deinen PC
 und gute Internetverbindung. Und das hast du ja sicher schon. Nutze deinen Computer, um deine Sprachkenntnisse gemütlich
 von zu Hause zu vertiefen und somit deine Zukunftsaussichten zu verbessern. Und wir unterstützen dich gerne dabei! Egal,
-in welchem Land du gerade bist, mit unseren **Online Kursen** kannst du überall effektiv und bequem lernen.
+in welchem Land du gerade bist, mit unseren [Online Kursen](https://www.be-deutsch.de/Kurse/)) kannst du überall effektiv und bequem lernen.
 
 <div class="alert alert-success" role="alert">
     <strong> Bei uns findest du: </strong>
