@@ -1,9 +1,53 @@
 <footer class="site-footer">
   <span class="site-footer-credits">
-    Kontakt und Anmeldung: <a href="info@be-deutsch.de">info@be-deutsch.de</a> oder <a href="https://www.t.me/bedeutsch/"><img src="{{ site.baseurl }}/assets/images/Telegram_logo.svg" alt="telegram icon" style="width:32px;height:32px;"></a>.
+    {{ site.data.translations['contactAndRegistration'][page.lang] }}: <a href="info@be-deutsch.de">info@be-deutsch.de</a> {{ site.data.translations['and'][page.lang] }} <a href="https://www.t.me/bedeutsch/"><img src="{{ site.baseurl }}/assets/images/Telegram_logo.svg" alt="telegram icon" style="width:32px;height:32px;"></a>.
   </span>
   <br>
   <span class="site-footer-credits"> 
-    Unsere <a href="{{ site.baseurl }}\AGB">AGB</a>, <a href="{{ site.baseurl }}\data_protection">Datenschutzerklärung</a> und <a href="{{ site.baseurl }}\impressum">Impressum</a>.
+    {{ site.data.translations['our'][page.lang] }} <a href="{{ site.baseurl }}\AGB">AGB</a>, <a href="{{ site.baseurl }}\data_protection">Datenschutzerklärung</a> {{ site.data.translations['and'][page.lang] }} <a href="{{ site.baseurl }}\impressum">Impressum</a>.
   </span>
+
+
+ <!-- from blog https://forestry.io/blog/creating-a-multilingual-blog-with-jekyll/ -->
+
+<!-- {% assign posts=site.posts | where:"lang-ref", page.lang-ref | sort: 'lang' %} -->
+
+<!-- {% assign posts=site.posts %} -->
+
+<!-- <br /><br /><br /><em> pages in pages: </em><br /><br />
+
+<ul>
+  {% for post in site.pages %}
+    <li>"{{ post.url }}"</li>
+  {% endfor %}
+</ul> -->
+
+<!-- {% if posts.size == 0 %}
+  {% assign posts=site.pages | where:"lang-ref", page.lang-ref | sort: 'lang' %}
+{% endif %} -->
+
+<!-- <div class="lang">
+  <ul>
+    {% for post in posts %}
+      <li><a class="{{ post.lang }}" href="{{ site.baseurl }}{{ post.url }}">{{ post.lang }}</a></li>
+    {% endfor %}
+  </ul>
+</div> -->
+
+<!-- end from blog -->
+
+<br /><br /><br /><em> {{ site.data.translations['selectWebsiteLang'][page.lang] }}: </em><br /><br />
+
+<ul style="list-style: none;">
+  {% for lang in site.data.languages %}
+    {% assign lang_code= lang[0] %}
+    {% if lang_code != page.lang %} <!-- show only languages other than page language -->
+      {% if lang_code == 'de' %} 
+        {% assign lang_code = "" %} <!-- "de" has no special url path, only "en" and "ru" -->
+      {% endif %} 
+      <li><a href="/{{lang_code}}">{{lang[1].icon}} {{ lang[1].label }} ({{ lang[0] }})</a></li>
+    {% endif %} 
+  {% endfor %}
+</ul>
+
 </footer>

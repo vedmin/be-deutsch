@@ -1,8 +1,8 @@
 ---
 layout: page
 title: A2 Deutschtest
-lang: de
-permalink: /Deutschtest/A2_Deutschtest/
+lang: en
+permalink: en/Deutschtest/A2_Deutschtest/
 ---
 
 Teste dein Deutsch! 👩‍🎓👨‍🎓

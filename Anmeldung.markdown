@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Anmeldung
+lang: de
 permalink: /Anmeldung/
 ---
 

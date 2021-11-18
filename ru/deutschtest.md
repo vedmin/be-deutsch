@@ -1,16 +1,16 @@
 ---
 layout: page
 title: Deutschtest
-lang: de
-lang-ref: teste-dein-deutsch
-permalink: /Deutschtest/
+lang: ru
+lang-ref: deutschtest-translate
+permalink: ru/Deutschtest/
 ---
 
-Teste dein Deutsch! 👩‍🎓👨‍🎓
+Проверьте свой немецкий! 👩‍🎓👨‍🎓
 
-Diese Tests geben dir eine erste Orientierung, wie gut deine Deutschkenntnisse sind.
+Эти тесты дадут вам представление о том, насколько хорошо вы владеете немецким языком.
 
-Klicke auf einen Test, um herauszufinden, auf welchem Niveau du gerade bist, und welcher Sprachkurs für dich optimal ist. 
+Нажмите на тест, чтобы узнать, на каком вы уровне и какой языковой курс вам больше всего подходит.
 
 <div class="btn-group-wrap">
     <div class="btn-group" style="text-align:center">
@@ -29,6 +29,3 @@ Klicke auf einen Test, um herauszufinden, auf welchem Niveau du gerade bist, und
 <p style="text-align:center">
     <button class="button_with_border red" onclick="location.href='C1_Deutschtest'" type="button" ><span>C1 Test </span></button>
 </p>
-
-
-<!-- <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfLjVL-U5y489F148YAAwIMi7q5DLaz5_fSN9Tyl0HQStHyiA/viewform?embedded=true" frameborder="0" scrolling="no" onload="resizeIframe(this)">Wird geladen…</iframe> -->

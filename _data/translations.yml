@@ -1,0 +1,32 @@
+selectWebsiteLang:
+  en: "Select Your Language"
+  de: "Wähle deine Sprache"
+  ru: "Выберите язык"
+testYourGerman:
+  en: "Test your German"
+  de: "Einstufungstest"
+  ru: "Тест на уровень немецкого"
+ourCourses:
+  en: "Our Courses"
+  de: "Unsere Kurse"
+  ru: "Наши курсы"
+studyInGermany:
+  en: "Study in Germany"
+  de: "Studium in Deutschland"
+  ru: "Учёба в Германии"
+registration:
+  en: "Sign up for lessons"
+  de: "Anmeldung"
+  ru: "Запись на урок"
+contactAndRegistration:
+  en: "Contact and registration"
+  de: "Kontakt und Anmeldung"
+  ru: "Контакт и запись на урок"
+our:
+  en: "Our"
+  de: "Unsere"
+  ru: "Наши"
+and:
+  en: "and"
+  de: "und"
+  ru: "и"

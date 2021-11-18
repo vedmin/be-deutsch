@@ -1,8 +1,8 @@
 ---
 layout: page
 title: B2 Deutschtest
-lang: de
-permalink: /Deutschtest/B2_Deutschtest/
+lang: ru
+permalink: ru/Deutschtest/B2_Deutschtest/
 ---
 
 Teste dein Deutsch! 👩‍🎓👨‍🎓

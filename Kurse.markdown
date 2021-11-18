@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Kurse
+lang: de
 permalink: /Kurse/
 ---
 

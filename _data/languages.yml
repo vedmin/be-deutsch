@@ -1,0 +1,15 @@
+en:
+  label: English
+  icon: <img src="/assets/images/flag-united-states.png" alt="telegram icon" style="width:24px;height:24px;">
+  url_part: /en/
+  #icon: 🇺🇸
+de:
+  label: Deutsch
+  icon: <img src="/assets/images/flag-germany.png" alt="telegram icon" style="width:24px;height:24px;">
+  url_part: 
+  #icon: 🇩🇪
+ru:
+  label: Russian
+  icon: <img src="/assets/images/flag-russia.png" alt="telegram icon" style="width:24px;height:24px;">
+  url_part: /ru/
+  #icon: 🇷🇺

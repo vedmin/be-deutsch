@@ -1,8 +1,8 @@
 ---
 layout: page
 title: StudiumInDeutschland
-lang: de
-permalink: /StudiumInDeutschland/
+lang: ru
+permalink: ru/StudiumInDeutschland/
 ---
 
 ## Deutsch Aufnahmetest in ein Studienkolleg

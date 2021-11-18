@@ -1,8 +1,8 @@
 ---
 layout: page
 title: C1 Deutschtest
-lang: de
-permalink: /Deutschtest/C1_Deutschtest/
+lang: en
+permalink: en/Deutschtest/C1_Deutschtest/
 ---
 
 Teste dein Deutsch! 👩‍🎓👨‍🎓

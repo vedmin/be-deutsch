@@ -1,8 +1,8 @@
 ---
 layout: page
 title: B1 Deutschtest
-lang: de
-permalink: /Deutschtest/B1_Deutschtest/
+lang: en
+permalink: en/Deutschtest/B1_Deutschtest/
 ---
 
 Teste dein Deutsch! 👩‍🎓👨‍🎓

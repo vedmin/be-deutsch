@@ -1,8 +1,8 @@
 ---
 layout: page
 title: A1 Deutschtest
-lang: de
-permalink: /Deutschtest/A1_Deutschtest/
+lang: ru
+permalink: ru/Deutschtest/A1_Deutschtest/
 ---
 
 Teste dein Deutsch! 👩‍🎓👨‍🎓
